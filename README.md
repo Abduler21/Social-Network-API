@@ -15,3 +15,7 @@ A fake API social network web application where users can share their thoughts, 
 ## Installation
 
 MongoDB, Mongoose and Express.js
+
+## USAGE
+
+https://drive.google.com/file/d/1-0fnB_mgFnS9VfnNYQtUdTpWyvanxMFv/view
