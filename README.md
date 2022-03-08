@@ -7,9 +7,6 @@ Challenge 18: NoSQL
 - [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contribution)
-- [Licensing](#licensing)
-- [Questions](#questions)
 
 ## Description
 
